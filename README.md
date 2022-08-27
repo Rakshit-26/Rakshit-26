@@ -1,7 +1,6 @@
-h1{
-  text-align:center;
-}
-<h1>Hi there, I'm Rakshit Agrawal👋</h1>
+<div align="center">
+  <h1>Hi there, I'm Rakshit Agrawal👋</h1>
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -15,8 +14,7 @@ h1{
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Rakshit-26&style=flat-square&color=blue" alt="" class="center"/>
----
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Rakshit-26&style=flat-square&color=blue" alt=""/></div>
 
 <!--
 **Rakshit-26/Rakshit-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
